@@ -2,6 +2,6 @@
 
 Contents : 
 
-[Data Analysis Project](https://github.com/arpansapkota/Data-Science-Capstone-Projects/blob/main/Identifying%20Investment%20Opportunities.ipynb) 
+[1. Data Analysis Project](https://github.com/arpansapkota/Data-Science-Capstone-Projects/blob/main/Identifying%20Investment%20Opportunities.ipynb) 
 
-[Machine Learning Project]()
+[2. Machine Learning Project]()
